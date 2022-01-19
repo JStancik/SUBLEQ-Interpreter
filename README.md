@@ -22,8 +22,6 @@ subleq @c, @z, 9
 subleq @z, @z, 9
 
 @z: .data 0
-
 @a: .data 2
 @b: .data 4
-
 @c: .data 0
